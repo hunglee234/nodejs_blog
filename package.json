@@ -1,0 +1,32 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Đây là một blog sử dụng node js by LK",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunglee234/nodejs_blog.git"
+  },
+  "keywords": [
+    "LK",
+    "Node",
+    "js",
+    "nodejslk"
+  ],
+  "author": "Khắc Hùng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hunglee234/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/hunglee234/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
